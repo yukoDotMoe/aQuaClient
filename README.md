@@ -1,6 +1,3 @@
-# aQua (minecraft client - 1.8.x)💞
-
-
 ## 🍣 what is this? | これは何ですか?
 aQua is a **modified** minecraft client for PvP industry or more. Simple and easy to customize make it more cool :o
 
