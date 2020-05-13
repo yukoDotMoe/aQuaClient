@@ -15,3 +15,5 @@ It's pretty easy, but you need to run minecraft **once** with version 1.8 or any
 4.  In ".minecraft" find the "versions" folder
 5.  Extract the zip in there
 6.  Launch your launcher and have fun with aQua!
+
+## 🌊 main and only website: https://a9ua.cf/
