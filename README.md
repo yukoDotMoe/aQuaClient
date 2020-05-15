@@ -2,7 +2,7 @@
     <img src="https://github.com/yukoDotMoe/aQuaClient/blob/master/logo.png?raw=true"/>
 </p>
 
-## 🌊 aQua's Spigot API plugin | これは何ですか?
+## 🌊 what is this? | これは何ですか?
 The aQua API will allow you to detect when a player is running CheatBreaker, enable and disable HUD modules, allow x-ray for your staff, and much more.
 
 > ⚠️ By using this **modified minecraft version** you accepted:
