@@ -1,0 +1,25 @@
+{
+	"name": "May 23th, 2020",
+	"text": [
+        "[h2]Thanks for being a BETA tester of aQua. This version is beta so it can cause error, issues can be report on github",
+        "[h1]This version changelogs:",
+        "[ul] BIG update to the UI",
+        "[ul] Remove animated logo",
+        "[ul] Separate AAC server list and normal list",
+        "[ul] Unlock all emotes. Only for BETA",
+        "[ul] Fancy font for fancy people, jk",
+        "[ul] Animations mod 3.0",        
+        "[ul] Added a new option to hitboxes",
+        "[ul] Fix autotip",
+        "[ul] Default name history mod keybind to none",
+        "[ul] Remove Monika"
+        "[h1]Bug fixes:",
+        "[ul] Added more debugs for us to help you guys easier",
+        "[ul] Crash fixes",
+        "[h1]Know issues:",
+        "[ul] Click on insider feature will cause crash",
+        "[ul] Random crash idk",
+        "That's all for this BETA, more update will be comming up.",
+        "from yuko with love."
+	]
+}
